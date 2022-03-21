@@ -1,0 +1,4 @@
+[core]
+    remote = s3storage
+['remote "s3storage"']
+    url = s3://imaging-platform/projects/2017_10_19_Profiling_rare_ORFs/workspace/software/2017_10_19_Profiling_rare_ORFs_DVC
